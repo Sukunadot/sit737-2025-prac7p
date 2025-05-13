@@ -1,0 +1,14 @@
+{
+    "name": "mongodb-crud-app",
+    "version": "1.0.0",
+    "description": "Node.js MongoDB CRUD App for SIT737",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "mongodb": "^5.6.0"
+    }
+  }
+  
